@@ -1,0 +1,3 @@
+## Python Data Structures Review Problems (Springboard/WashU)
+
+This repository includes several small coding problems meant to help review different data structures in Python. Each folder contains code for a brief coding problem with requirements and examples details discussed in a function docstring. These exercises were performed as part of the pre-work for the Springboard/Washington University in St. Louis Data Engineering Bootcamp.
